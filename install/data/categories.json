@@ -1,0 +1,38 @@
+[
+    {
+        "name": "技术问题讨论",
+        "description": "java和php哪个是最好的语言",
+        "descriptionParsed": "<p>java和php哪个是最好的语言</p>\n",
+        "bgColor": "#fda34b",
+        "color": "#fff",
+        "icon" : "fa-bullhorn",
+        "order": 1
+    },
+    {
+        "name": "I Want You!!",
+        "description": "项目，招人，找合作？Come in!",
+        "descriptionParsed": "<p>项目，招人，找合作？Come in!</p>\n",
+        "bgColor": "#59b3d0",
+        "color": "#fff",
+        "icon" : "fa-comments-o",
+        "order": 2
+    },
+    {
+        "name": "专业技术精华",
+        "description": "秋名山老司机带你飙IT这趟车",
+        "descriptionParsed": "<p>秋名山老司机带你飙IT这趟车</p>\n",
+        "bgColor": "#86ba4b",
+        "color": "#fff",
+        "icon" : "fa-newspaper-o",
+        "order": 4
+    },
+    {
+        "name": "Comments & Feedback",
+        "description": "Got a question? Ask away!",
+        "descriptionParsed": "<p>Got a question? Ask away!</p>\n",
+        "bgColor": "#e95c5a",
+        "color": "#fff",
+        "icon" : "fa-question",
+        "order": 3
+    }
+]

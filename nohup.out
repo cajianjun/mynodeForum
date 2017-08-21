@@ -1,0 +1,6 @@
+
+Starting NodeBB
+  "./nodebb stop" to stop the NodeBB server
+  "./nodebb log" to view server output
+  "./nodebb restart" to restart NodeBB
+
